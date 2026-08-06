@@ -37,7 +37,7 @@ done
 
 Or symlink them into your personal skills directory if you want them available everywhere.
 
-Once installed you can call a pack by name (`xss`, `ssrf`, `sql-injection`, …) or just ask about that vuln class and let the agent pick it up from the description.
+Once installed you can call a pack by name (`xss`, `ssrf`, `sql-injection`, and so on) or just ask about that vuln class and let the agent pick it up from the description.
 
 If you install all 34 at once and some stop showing up in autocomplete, trim the set or mark rarely used ones as name-only in your agent settings. The big `payloads.md` files are only read when something actually opens them.
 
